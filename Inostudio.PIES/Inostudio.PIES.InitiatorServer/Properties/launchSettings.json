@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "Inostudio.PIES.InitiatorServer": {
+      "commandName": "Project"
+    }
+  }
+}
